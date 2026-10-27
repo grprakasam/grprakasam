@@ -4,6 +4,10 @@
 
 `LangGraph` · `MCP` · `RAG` · `Multi-model LLMs` · `Amazon Bedrock` · `Azure OpenAI` · `LLMOps & evals` · `AI governance` · `Python` · `R` · `SAS`
 
+**1-minute intro** — my resume as a short animated walkthrough:
+
+![1-minute animated intro of Prakasam R](intro/prakasam-intro.gif)
+
 ## Projects
 
 | Project | What it does | Evidence |
