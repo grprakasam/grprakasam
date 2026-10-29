@@ -2,7 +2,7 @@
 
 **Technology manager designing agentic AI that regulated teams can audit.** My agents check their own work with deterministic gates, run evals as CI quality gates and stop for an independent human sign-off, with audit trails end to end. 17+ years delivering for life sciences and BFSI clients. Claude Certified Architect – Foundations. Chennai, India.
 
-**Open to AI architect and AI solutions roles · available to join immediately.**
+**Open to AI architect and AI solutions roles (remote or Chennai) · available to join immediately.**
 
 `LangGraph` · `MCP` · `RAG` · `Multi-model LLMs` · `Amazon Bedrock` · `Azure OpenAI` · `LLMOps & evals` · `AI governance` · `Python` · `R` · `SAS`
 
